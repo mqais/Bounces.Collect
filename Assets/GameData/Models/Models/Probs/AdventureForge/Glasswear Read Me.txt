@@ -1,0 +1,123 @@
+Hi, and thank you for purchasing this package!
+
+The theme for this package is glasswear. At the moment it is split up in 3 different categoris: 
+Cabinets, Household, and Chemistry.
+
+This package contains 65 different unique models (fbx). The models named "Cabinet" and "Cabinet Lit" 
+has two different metal specularity textures, one clean glass specularity and one glass specularity texture with fingerprints, making 
+it 80 different prefabs of the cabinet models. There is also 2 different emission maps for the lights on the cabinets with round and square LED,
+as well as an emission map for the glass plates in the cabinet to make the fingerprints glow.
+
+
+In total this package consist of 125 different prefabs.
+
+
+Material setup:
+
+All materials are set up as needed, but in case one needs to revert to original values they are as follow:
+
+CorkMA:
+	Albedo: 		CorkAlbedo Texture
+	Specularity (RGB):	6,6,6
+	Smoothness:		0.05
+
+ClassContainerMA:
+	Albedo (RGB):		86,86,86
+	Metallic:			0
+	Smoothness:		0.5
+	Emission:		AFLedRound/AFLedSquare Texture
+
+GlassFingerprintMA:
+	Albedo (RGBA):		218,239,255,34
+	Metallic:		AFGlassFingerprintsSpecularity Texture
+	Emission:		AFGlassFingerprintEmission Texture
+
+GlassMA:
+	Albedo (RGBA):		218,239,255,34
+	Metallic:		0
+	Smoothness:		0.9
+
+MetalBrushedMA:
+	Albedo:			191,191,191
+	Metallic:		AFBrushedMetalRadialSpecularity Texture
+
+MetalMA:
+	Albedo:			191,191,191
+	Metallic:		AFBrushedMetalSpecularity Texture
+
+
+If you are in need of any assistance, have suggestion, wishes, or simply want to ask us a question,
+don't hasitate to contact us on e-mail: 
+
+support@adventureforgestudio.com  
+
+And if you have the time please rate our asset.
+
+All the fbx's are listed below: 
+
+1.	Beaker Large				370 tris, 319 verts
+2.	Beaker Medium				370 tris, 298 verts
+3.	Beaker Small				370 tris, 303 verts
+4.	Glass Bowl 01				380 tris, 322 verts
+5.	Glass Bowl 02				380 tris, 294 verts
+6.	Glass Bowl 03				288 tris, 331 verts
+7.	Glass Bowl 04				288 tris, 327 verts
+8.	Glass Brandy				508 tris, 490 verts
+9.	Glass Cabinet 01			372 tris, 732 verts
+10.	Glass Cabinet 02			408 tris, 804 verts
+11.	Glass Cabinet 03			224 tris, 448 verts
+12.	Glass Cabinet 04			288 tris, 576 verts
+13.	Glass Cabinet 05			280 tris, 560 verts
+14.	Glass Cabinet 06			480 tris, 912 verts
+15.	Glass Cabinet 07			528 tris, 1008 verts
+16.	Glass Cabinet 08			284 tris, 568 verts
+17.	Glass Cabinet 09			364 tris, 728 verts
+18.	Glass Cabinet 10			400 tris, 788 verts
+19.	Glass Cabinet Lit 01			396 tris, 786 verts
+20.	Glass Cabinet Lit 02			432 tris, 852 verts
+21.	Glass Cabinet Lit 03			248 tris, 496 verts
+22.	Glass Cabinet Lit 04			312 tris, 624 verts
+23.	Glass Cabinet Lit 05			304 tris, 608 verts
+24.	Glass Cabinet Lit 06			512 tris, 976 verts
+25.	Glass Cabinet Lit 07			560 tris, 1072 verts
+26.	Glass Cabinet Lit 08			316 tris, 632 verts
+27.	Glass Cabinet Lit 09			396 tris, 792 verts
+28.	Glass Cabinet Lit 10			432 tris, 820 verts
+29. 	Glass Cocktail				348 tris, 327 verts
+30.	Glass Cordial				380 tris, 374 verts
+31.	Glass Erlenmeyer Flask Large		412 tris, 387 verts
+32.	Glass Erlenmeyer Flask Medium		412 tris, 376 verts
+33.	Glass Erlenmeyer Flask Small		412 tris, 374 verts
+34. 	Glass Footed Pilsner			348 tris, 363 verts
+35.	Glass Funnel				416 tris, 404 verts
+36. 	Glass Glaszylinder Large		574 tris, 506 verts
+37.	Glass Glaszylinder Small		574 tris, 519 verts
+38. 	Glass Highball				188 tris, 178 verts
+39. 	Glass Round Jar Large			536 tris, 525 verts
+40. 	Glass Round Jar Small			600 tris, 575 verts
+41. 	Glass Measuring Cylinder Large		410 tris, 388 verts
+42.	Glass Measuring Cylinder Medium		410 tris, 361 verts
+43.	Glass Measuring Cylinder Small		410 tris, 358 verts
+44. 	Glass Old Fashioned			188 tris, 185 verts
+45. 	Glass Petri Dish			188 tris, 199 verts
+46.	Glass Fine Pitcher			516 tris, 578 verts
+47.	Glass Red Wine				508 tris, 458 verts
+48.	Glass Rustic Flask			536 tris, 531 verts
+49. 	Glass Shot				188 tris, 185 verts
+50.	Glass Test Tube				384 tris, 311 verts
+51.	Glass TestTubeRack with 4 Test Tubes	2220 tris, 2183 verts
+52. 	Glass TestTubeRack with 8 Test Tubes	3756 tris, 3383 verts
+53.	Glass TestTubeRack Empty		684 tris, 994 verts
+54. 	Glass Tulip Champagne			572 tris, 534 verts
+55.	Glass Vase 01				144 tris, 157 verts
+56.	Glass Vase 02				476 tris, 370 verts
+57.	Glass Vase 03				540 tris, 455 verts
+58.	Glass Vase 04				466 tris, 402 verts
+59.	Glass Volumetric Flask Large		696 tris, 689 verts
+60.	Glass Volumetric Flask Medium		696 tris, 701 verts
+61.	Glass Volumetric Flask Small		696 tris, 699 verts
+62.	Glass Water Carafe			414 tris, 326 verts
+63.	Glass Whiskey Sour			476 tris, 431 verts
+64.	Glass White Wine			540 tris, 510 verts
+65.	Glass Wine Carafe			572 tris, 471 verts
+	
